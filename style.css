@@ -10,3 +10,12 @@ body {
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0,0,0,0,1);
 }
+
+.kartu-profil img {
+  width: 150px
+  border-radius: 50px
+}
+.kartu-profil {
+  /* ... (kode dari slide selanjutnya) ... */
+  text-align:center; /* Menengahkan semua teks di dalam kartu */
+}
